@@ -1,0 +1,11 @@
+Classes:
+
+Remedio
+- id
+- nome
+- dataHoraInicio
+- dataHoraFim
+- dataHoraCriacao
+- qtdDias
+- intervalo
+- dosagem
